@@ -34787,7 +34787,7 @@ var Content = function Content(_ref2) {
 
 /***/ }),
 
-/***/ 1:
+/***/ 2:
 /*!***************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Fprofile&absolutePagePath=%2Fhome%2Ffabio%2Fworkspace%2Fnextjs-blog%2Fpages%2Fprofile.tsx ***!
   \***************************************************************************************************************************************/
@@ -34810,5 +34810,5 @@ module.exports = dll_2adc2403d89adc16ead0;
 
 /***/ })
 
-},[[1,"static/runtime/webpack.js"]]]);
+},[[2,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=profile.js.map
